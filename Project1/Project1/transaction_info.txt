@@ -1,0 +1,81 @@
+#########################
+Transaction Sequence Number: 1
+Transaction Date :12/12/2024
+Transaction Amount :0.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:8989374615436851
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 2
+Transaction Date :12/12/2023
+Transaction Amount :1320.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:8989374615436851
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 3
+Transaction Date :12/12/2023
+Transaction Amount :1250.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:8989374615436851
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 4
+Transaction Date :12/12/2023
+Transaction Amount :1400.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:3221374615434561
+Card Expiration Date :12/25
+#########################
+#########################
+Transaction Sequence Number: 5
+Transaction Date :12/12/2023
+Transaction Amount :1000.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:8989374615436851
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 6
+Transaction Date :12/12/2023
+Transaction Amount :1200.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:3221374615434561
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 8
+Transaction Date :12/12/2023
+Transaction Amount :1200.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:8989374615436851
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 9
+Transaction Date :12/12/2023
+Transaction Amount :1200.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustafa
+PAN:8989374615436851
+Card Expiration Date :12/24
+#########################
+#########################
+Transaction Sequence Number: 10
+Transaction Date :12/12/2023
+Transaction Amount :1200.000000
+Transaction State :Success
+Cardholder Name :mazen mounir moustaf
+PAN:3221374615434561
+Card Expiration Date :12/24
+#########################

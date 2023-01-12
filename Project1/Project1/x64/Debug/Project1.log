@@ -1,0 +1,28 @@
+﻿  Application.c
+  cardMod.c
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\card\cardMod.c(11,18): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\card\cardMod.c(112,18): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+  Main.c
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Main.c(4,2): warning C4013: 'appStart' undefined; assuming extern returning int
+  serverMod.c
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(91,60): warning C4133: 'function': incompatible types - from 'float *' to 'ST_terminalData_t *'
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(99,48): warning C4133: 'function': incompatible types - from 'ST_cardData_t *' to 'ST_transaction_t *'
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(17,10): warning C4101: 'tstat': unreferenced local variable
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(9,8): warning C4101: 'tStat': unreferenced local variable
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(197,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(209,9): warning C4101: 'kk': unreferenced local variable
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(347,11): warning C4101: 'newline': unreferenced local variable
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(418,11): warning C4098: 'listSavedTransactions': 'void' function returning a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(428,11): warning C4098: 'listSavedTransactions': 'void' function returning a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(438,11): warning C4098: 'listSavedTransactions': 'void' function returning a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(447,11): warning C4098: 'listSavedTransactions': 'void' function returning a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(455,11): warning C4098: 'listSavedTransactions': 'void' function returning a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(470,10): warning C4098: 'listSavedTransactions': 'void' function returning a value
+  terminalMod.c
+  Generating Code...
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(115): warning C4715: 'recieveTransactionData': not all control paths return a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(283): warning C4715: 'isAmountAvailable': not all control paths return a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(240): warning C4715: 'isBlockedAccount': not all control paths return a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(392): warning C4715: 'saveTransaction': not all control paths return a value
+C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\Project1\Server\serverMod.c(227): warning C4715: 'isValidAccount': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Mazen\Desktop\Study\Embedded Course\projects\Payment application\Project1\x64\Debug\Project1.exe
